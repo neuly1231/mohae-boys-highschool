@@ -1,8 +1,8 @@
 const websiteData = {
     "updateInfo": {
-        "version": "v1.1.1",
-        "date": "2025-12-20",
-        "content": "• 오탈자 검수 및 수정 완료<br>• 웹사이트 디자인 전면 리뉴얼<br>• 소공지 추가 (게시글 규정, 편파 방지, 금지 용어 가이드라인)"
+        "version": "v1.1.2",
+        "date": "2025-12-25",
+        "content": "• 캐릭터 설정 컨트 허용으로 수정"
     },
     "menus": [
         {
@@ -110,3 +110,4 @@ const websiteData = {
     ]
 
 };
+
